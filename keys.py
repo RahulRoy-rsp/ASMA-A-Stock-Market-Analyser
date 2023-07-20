@@ -1,0 +1,11 @@
+# GET THESE INFORMATION FROM YOUR TWITTER DEVELOPERS PAGE
+
+api_key = "YOUR API KEY"
+
+api_key_secret = "YOUR API KEY SECRET"
+
+bearer_token = "YOUR BEARER TOKEN"
+
+access_token = "YOUR ACCESS TOKEN"
+
+access_token_secret = "YOUR ACCESS KEY TOKEN"
