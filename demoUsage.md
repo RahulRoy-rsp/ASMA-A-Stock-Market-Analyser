@@ -67,40 +67,73 @@ After that, one can see some Compound technical components and their definitons.
 ![image](https://github.com/RahulRoy-rsp/ASMA-A-Stock-Market-Analyser/assets/91940155/0a33619a-9205-445e-b20d-b50570a75085)
 ![image](https://github.com/RahulRoy-rsp/ASMA-A-Stock-Market-Analyser/assets/91940155/fb4b11dd-cb3a-49e6-8491-a6a9e0b43242)
 
+Then, the users can view and download the announcements, statements and reports of the company from latest to oldest.
 
 ![image](https://github.com/RahulRoy-rsp/ASMA-A-Stock-Market-Analyser/assets/91940155/d6fe2cb2-668a-4709-af0e-536d7da9914b)
 
+First one is the announcements
+
 ![image](https://github.com/RahulRoy-rsp/ASMA-A-Stock-Market-Analyser/assets/91940155/b942f8a0-d0df-43a5-a011-e2be911d6420)
+
+After clicking on the first link of the announcements, the following page opens to view and download it.
 
 ![image](https://github.com/RahulRoy-rsp/ASMA-A-Stock-Market-Analyser/assets/91940155/675d5519-c7a4-40f7-b1c2-5df4cfc5a7c6)
 
+Next is Quarterly results.
+
 ![image](https://github.com/RahulRoy-rsp/ASMA-A-Stock-Market-Analyser/assets/91940155/0dd78f0e-c4e8-4a4f-adb6-4078d53ea695)
+
+After clicking on the first link of the quarterly results, the following page opens to view and download it.
 
 ![image](https://github.com/RahulRoy-rsp/ASMA-A-Stock-Market-Analyser/assets/91940155/99bf3bbe-1b66-4442-a722-fb526eb495d6)
 
+The last one is the reports.
+
 ![image](https://github.com/RahulRoy-rsp/ASMA-A-Stock-Market-Analyser/assets/91940155/e109d26f-d73d-4406-8d22-05d50657e691)
+
+After clicking on the first link of the reports, the following page opens to view and download it.
 
 ![image](https://github.com/RahulRoy-rsp/ASMA-A-Stock-Market-Analyser/assets/91940155/dfde1fcc-c4f1-4411-a86b-9c7ca6a02891)
 
+Below those, the user can see the sentimental analysis of the company where they are being shown a bar chart and a pie chart showing percentages of Positive, Neutral & Negative sentiments in the first tab.
+
 ![image](https://github.com/RahulRoy-rsp/ASMA-A-Stock-Market-Analyser/assets/91940155/0857c7f8-b6ef-4de0-869c-fe98369996fe)
 
-![image](https://github.com/RahulRoy-rsp/ASMA-A-Stock-Market-Analyser/assets/91940155/22e1fe87-a660-420c-aff7-3e010c009580)
+In the second tab, one can see the most liked tweet and most retweeted tweet.
 
+![image](https://github.com/RahulRoy-rsp/ASMA-A-Stock-Market-Analyser/assets/91940155/22e1fe87-a660-420c-aff7-3e010c009580)
 ![image](https://github.com/RahulRoy-rsp/ASMA-A-Stock-Market-Analyser/assets/91940155/299305dc-3fc6-4bfa-b6ca-74b13e471df6)
+
+Also, a word cloud of the tweets.
 
 ![image](https://github.com/RahulRoy-rsp/ASMA-A-Stock-Market-Analyser/assets/91940155/22995327-bcc0-4a7a-be8d-6d440eb364ff)
 
+Then, Finally the predictive analysis is shown.
+
 ![image](https://github.com/RahulRoy-rsp/ASMA-A-Stock-Market-Analyser/assets/91940155/2daadd2f-ee7f-4e5b-9b36-7c22156e4aea)
+
+The first tab shows the historical vs predicted prices chart for the company.
 
 ![image](https://github.com/RahulRoy-rsp/ASMA-A-Stock-Market-Analyser/assets/91940155/b4526ea6-00ca-4ddc-b268-04bffc6fc2ff)
 
+The second tab shows the recent price of the company and the price after n number of days, and stating the increase or decrease in the price of the stock.
+
 ![image](https://github.com/RahulRoy-rsp/ASMA-A-Stock-Market-Analyser/assets/91940155/ebcc150e-4345-47ab-bb8f-edbf2b2bd6f8)
 
-![image](https://github.com/RahulRoy-rsp/ASMA-A-Stock-Market-Analyser/assets/91940155/70b777d1-8004-4594-b48f-f57ff0b48e32)
+The third tab shows some random dates for an actual & predicted price for a stock.
 
+![image](https://github.com/RahulRoy-rsp/ASMA-A-Stock-Market-Analyser/assets/91940155/70b777d1-8004-4594-b48f-f57ff0b48e32)
 ![image](https://github.com/RahulRoy-rsp/ASMA-A-Stock-Market-Analyser/assets/91940155/df5c0d34-29b8-4199-9bf5-abb1dfe13139)
 
+## ** Thats it! **
+
+---
+
+* It is an example of how a loss and profit both are visible for a stock. (5Paisa Capital Limited) *
 
 ![image](https://github.com/RahulRoy-rsp/ASMA-A-Stock-Market-Analyser/assets/91940155/6ce75dc4-2bad-40de-a6f6-001e01178058)
+
+* For some exceptional cases: *
+This shows that some stocks information is not available. (Aaron Industries).
 
 ![image](https://github.com/RahulRoy-rsp/ASMA-A-Stock-Market-Analyser/assets/91940155/ea788491-a1c0-431d-ad1c-45132977c473)
