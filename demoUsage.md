@@ -32,7 +32,7 @@ The second one is an interactive line chart showing the last three years quarter
 
 ![image](https://github.com/RahulRoy-rsp/ASMA-A-Stock-Market-Analyser/assets/91940155/89f1e51e-0bba-4592-a0e6-4a18ec8007a8)
 
-The third one is an interactive bar chart showing the last three years quarterly sales.
+The third one is an interactive Area chart showing the last three years quarterly sales.
 
 ![image](https://github.com/RahulRoy-rsp/ASMA-A-Stock-Market-Analyser/assets/91940155/daba5ef8-0d6f-49a7-ab52-c1f2143f3903)
 
@@ -41,7 +41,7 @@ After that, the overall Profit/Loss status table is displayed over the years of 
 ![image](https://github.com/RahulRoy-rsp/ASMA-A-Stock-Market-Analyser/assets/91940155/a0c30a62-3fa0-4fa9-95e4-c7534ed1aa9f)
 
 Again, to educate the user the profits and losses of a company, they will be able to see the charts in 3 forms of the profit/loss over the years.
-The first one shows the Area chart showing the profit value in green and loss values in red.
+The first one shows the Bar chart showing the profit value in green and loss values in red.
 
 ![image](https://github.com/RahulRoy-rsp/ASMA-A-Stock-Market-Analyser/assets/91940155/15ffff94-4548-4a5b-8179-7c6c88e1b028)
 
@@ -49,16 +49,17 @@ The second one shows the line chart showing the profit value in green and loss v
 
 ![image](https://github.com/RahulRoy-rsp/ASMA-A-Stock-Market-Analyser/assets/91940155/af78a9b3-6a6e-44eb-b4cf-7376920c248b)
 
+The third one shows the area chart showing the profit value in green and loss values in red.
 
 ![image](https://github.com/RahulRoy-rsp/ASMA-A-Stock-Market-Analyser/assets/91940155/0fe51b3b-4317-433b-91d2-c495c8f32d2f)
 
-The first one shows the area chart showing the profit value in green and loss values in red.
+Then, one can view the balance sheet data and the shareholding pattern of the company.
 
 ![image](https://github.com/RahulRoy-rsp/ASMA-A-Stock-Market-Analyser/assets/91940155/37eb86f4-d4b5-42d8-8284-468cd74e9b65)
 
-Then, one can view the balance sheet data and the shareholding pattern of the company.
-
 ![image](https://github.com/RahulRoy-rsp/ASMA-A-Stock-Market-Analyser/assets/91940155/8ee965c6-ddc9-417f-9553-de18f180bd03)
+
+After that, one can see some Compound technical components and their definitons.
 
 ![image](https://github.com/RahulRoy-rsp/ASMA-A-Stock-Market-Analyser/assets/91940155/98baf6b2-fa98-4d7b-b3da-e336bc86ba22)
 
