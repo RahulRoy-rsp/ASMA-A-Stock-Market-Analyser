@@ -1,4 +1,4 @@
-# ASMA-A-Stock-Market-Analyser
+# ASMA: A Stock Market Analyser
 An Indian Stock Market Analyser built using Python.
 ---
 <p> India's stock market is extremely variable and indeterministic, which has a limitless number of aspects that regulate the directions and trends of the stock market; therefore, predicting the uptrend and downtrend is a complicated process.
