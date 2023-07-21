@@ -1,7 +1,5 @@
 ## Demo Usage:
 
-**Home Page:**
-
 Once the application is started, the following page will be loaded. It will display the project title, greeting to the user based on the time (I ran the application at 13:51), so its greets “Good Afternoon”.
 
 ![image](https://github.com/RahulRoy-rsp/ASMA-A-Stock-Market-Analyser/assets/91940155/0f5e16e0-eee9-4d34-93d9-dbb1cc7b886d)
