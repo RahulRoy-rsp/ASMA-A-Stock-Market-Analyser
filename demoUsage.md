@@ -123,11 +123,11 @@ The third tab shows some random dates for an actual & predicted price for a stoc
 ![image](https://github.com/RahulRoy-rsp/ASMA-A-Stock-Market-Analyser/assets/91940155/70b777d1-8004-4594-b48f-f57ff0b48e32)
 ![image](https://github.com/RahulRoy-rsp/ASMA-A-Stock-Market-Analyser/assets/91940155/df5c0d34-29b8-4199-9bf5-abb1dfe13139)
 
-## ** Thats it! **
+## Thats it! 
 
 ---
 
-* It is an example of how a loss and profit both are visible for a stock. (5Paisa Capital Limited) *
+ It is an example of how a loss and profit both are visible for a stock. (5Paisa Capital Limited) 
 
 ![image](https://github.com/RahulRoy-rsp/ASMA-A-Stock-Market-Analyser/assets/91940155/6ce75dc4-2bad-40de-a6f6-001e01178058)
 
