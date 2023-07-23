@@ -21,6 +21,7 @@ This application provides you with access to all the latest financial reports, a
 - **Sklearn**: pip install scikit-learn
 - **Prophet**: pip install prophet
 
+
 - **FbProphet**:
   - conda install libpython m2w64-toolchain -c msys2
   - conda install numpy cython -c conda-forge
@@ -30,6 +31,6 @@ This application provides you with access to all the latest financial reports, a
   - conda install -c conda-forge fbprophet
 
 
-### [For Software Information](https://github.com/RahulRoy-rsp/ASMA-A-Stock-Market-Analyser/blob/main/Softwares/sofwares.md)
+### [For Software related Information](https://github.com/RahulRoy-rsp/ASMA-A-Stock-Market-Analyser/blob/main/Softwares/sofwares.md)
 
 [**Click to see demo Usage**](https://github.com/RahulRoy-rsp/ASMA-A-Stock-Market-Analyser/blob/main/demoUsage.md)
